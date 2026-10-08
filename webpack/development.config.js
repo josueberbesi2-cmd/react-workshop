@@ -22,3 +22,5 @@ module.exports = {
     new ExtractTextPlugin(DefaultConfig.BundleName + '.css')
   ]
 };
+
+
