@@ -1,4 +1,4 @@
-import webpack from 'webpack';
+882b1820b2f17a3a49ec1c50c50d2b3e19d05949import webpack from 'webpack';
 import WebpackDevMiddleware from 'webpack-dev-middleware';
 import WebpackHotMiddleware from 'webpack-hot-middleware';
 import Express from 'express';
